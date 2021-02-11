@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background-color: black;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.autotypertxt{
+    font-size: 3.5rem;
+    font-weight: bold;
+    color: white;
+}
+
+.txt{
+    padding-right: 5px;
+    border-right: 3px solid white;
+}
